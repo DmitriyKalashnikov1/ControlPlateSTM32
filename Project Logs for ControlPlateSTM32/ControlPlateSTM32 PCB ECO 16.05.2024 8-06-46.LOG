@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=P1 Old Footprint=61300911121 New Footprint=61300911121
+Change Component Footprint: Designator=U1 Old Footprint=FP-LQFP48-5B-MFG New Footprint=FP-LQFP48-5B-MFG
+Change Component Footprint: Designator=SW1 Old Footprint=WS-TASV_L6W6H4.3_4301x20438x6 New Footprint=WS-TASV_L6W6H4.3_4301x20438x6
+Change Component Footprint: Designator=SW2 Old Footprint=WS-TASV_L6W6H4.3_4301x20438x6 New Footprint=WS-TASV_L6W6H4.3_4301x20438x6
+Change Component Footprint: Designator=SW4 Old Footprint=WS-TASV_L6W6H4.3_4301x20438x6 New Footprint=WS-TASV_L6W6H4.3_4301x20438x6
+Change Component Footprint: Designator=SW5 Old Footprint=WS-TASV_L6W6H4.3_4301x20438x6 New Footprint=WS-TASV_L6W6H4.3_4301x20438x6
+Added Pin To Net: NetName=RST Pin=R2-2
+Added Pin To Net: NetName=RST Pin=SW1-A1
+Added Member To Class: ClassName=ControlPlateSTM32 Member=Component R29 Res2
+Added Member To Class: ClassName=ControlPlateSTM32 Member=Component SW4 430152043836
+Added Member To Class: ClassName=ControlPlateSTM32 Member=Component U1 STM32F103CBT6TR
